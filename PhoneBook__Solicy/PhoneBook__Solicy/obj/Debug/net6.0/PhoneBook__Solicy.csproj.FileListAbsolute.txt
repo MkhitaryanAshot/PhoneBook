@@ -1,0 +1,15 @@
+C:\Users\mkhit\source\repos\PhoneBook__Solicy\PhoneBook__Solicy\bin\Debug\net6.0\PhoneBook__Solicy.exe
+C:\Users\mkhit\source\repos\PhoneBook__Solicy\PhoneBook__Solicy\bin\Debug\net6.0\PhoneBook__Solicy.deps.json
+C:\Users\mkhit\source\repos\PhoneBook__Solicy\PhoneBook__Solicy\bin\Debug\net6.0\PhoneBook__Solicy.runtimeconfig.json
+C:\Users\mkhit\source\repos\PhoneBook__Solicy\PhoneBook__Solicy\bin\Debug\net6.0\PhoneBook__Solicy.dll
+C:\Users\mkhit\source\repos\PhoneBook__Solicy\PhoneBook__Solicy\bin\Debug\net6.0\ref\PhoneBook__Solicy.dll
+C:\Users\mkhit\source\repos\PhoneBook__Solicy\PhoneBook__Solicy\bin\Debug\net6.0\PhoneBook__Solicy.pdb
+C:\Users\mkhit\source\repos\PhoneBook__Solicy\PhoneBook__Solicy\obj\Debug\net6.0\PhoneBook__Solicy.csproj.AssemblyReference.cache
+C:\Users\mkhit\source\repos\PhoneBook__Solicy\PhoneBook__Solicy\obj\Debug\net6.0\PhoneBook__Solicy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkhit\source\repos\PhoneBook__Solicy\PhoneBook__Solicy\obj\Debug\net6.0\PhoneBook__Solicy.AssemblyInfoInputs.cache
+C:\Users\mkhit\source\repos\PhoneBook__Solicy\PhoneBook__Solicy\obj\Debug\net6.0\PhoneBook__Solicy.AssemblyInfo.cs
+C:\Users\mkhit\source\repos\PhoneBook__Solicy\PhoneBook__Solicy\obj\Debug\net6.0\PhoneBook__Solicy.csproj.CoreCompileInputs.cache
+C:\Users\mkhit\source\repos\PhoneBook__Solicy\PhoneBook__Solicy\obj\Debug\net6.0\PhoneBook__Solicy.dll
+C:\Users\mkhit\source\repos\PhoneBook__Solicy\PhoneBook__Solicy\obj\Debug\net6.0\ref\PhoneBook__Solicy.dll
+C:\Users\mkhit\source\repos\PhoneBook__Solicy\PhoneBook__Solicy\obj\Debug\net6.0\PhoneBook__Solicy.pdb
+C:\Users\mkhit\source\repos\PhoneBook__Solicy\PhoneBook__Solicy\obj\Debug\net6.0\PhoneBook__Solicy.genruntimeconfig.cache
